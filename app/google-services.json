@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828231108014",
+    "project_id": "monu-find",
+    "storage_bucket": "monu-find.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828231108014:android:e37b4d97ce3074327db43f",
+        "android_client_info": {
+          "package_name": "com.example.monu_find10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828231108014-a6ad1ksqkigta4m0dbnckspgunuhll50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHCzlMAlncigEcyg_ZcxzsU_a4d_MM--k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828231108014-a6ad1ksqkigta4m0dbnckspgunuhll50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

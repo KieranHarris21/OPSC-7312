@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Monu-Find 1.0"
